@@ -11,8 +11,8 @@ Ramkhamhaeng University, Bachelor degree of Political Science, Jun 2017 - Jul 20
 ## Programming Language & Tools capability
 * Spreadsheet Programs (Excel, Google Sheets)
 * SQL (MySQL, SQLite3)
-* Moderately used PowerBI (to make DAX, Measurement, Visualization)
-* Moderately used Python (with some libraries such as Pandas, Numpy, Matplotlib, Seaborn) 
+* PowerBI (to make DAX, Measurement, Visualization)
+* Python (with some libraries such as Pandas, Numpy, Matplotlib, Seaborn) 
 * Google Data Studio
 
 ----------------------------------------------------
