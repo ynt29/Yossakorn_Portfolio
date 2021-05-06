@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<h1><p align="center"><b>Yossakorn Napeang's Portfolio</b></p></h1>
+<p align="center">
+  <img width="300" height="300" src="https://github.com/ynt29/Yossakorn_Portfolio/blob/main/ynpost.png">
+</p>
 
-You can use the [editor on GitHub](https://github.com/ynt29/Yossakorn_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Data Science Projects of Yossakorn Napeang
 
-### Markdown
+----------------------------------------------------
+# [Project 1: Olympics Project (Exploratory Analysis Project)](https://github.com/ynt29/Olympics_Project)
+This Project is exploration olympics medal data for find out Number of Athletes, Medalists, Medal Table, Top events in 3 level (International, Continental, National)
+* Used PowerBI Desktop to create additional attribute into dataset
+* Used Python to clean the dataset, calculated data with Pandas and visualized with Matplotlib and Seaborn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-----------------------------------------------------
+# [Project 2: Video games Sales Dashboard (Visualization & Dashboard Project)](https://github.com/ynt29/Videogames_Sales_dashboard)
+Project for visualization and making a dashboard from Video games Sales data
+* Used Python (with Pandas) to clean the dataset
+* Used Google Data Studio to import the dataset, set the metrics, visualized and make the dashboard. 
 
-```markdown
-Syntax highlighted code block
+-----------------------------------------------------
+# [Project 3: SQL Employees Database (SQL Database Project)](https://github.com/ynt29/SQL_Employees_Project)
+MySQL Project for creating database and execution query to wanted data
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ynt29/Yossakorn_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-----------------------------------------------------
