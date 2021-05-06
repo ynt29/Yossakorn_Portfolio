@@ -3,7 +3,19 @@
   <img width="300" height="300" src="https://github.com/ynt29/Yossakorn_Portfolio/blob/main/ynpost.png?raw=true">
 </p>
 
+----------------------------------------------------
+## Educational Profile
+Ramkhamhaeng University, Bachelor degree of Political Science, Jun 2017 - Jul 2020, GPA 3.07
 
+----------------------------------------------------
+## Programming Language & Tools capability
+* Spreadsheet Programs (Excel, Google Sheets)
+* SQL (MySQL, SQLite3)
+* Moderately used PowerBI (to make DAX, Measurement, Visualization)
+* Moderately used Python (with some libraries such as Pandas, Numpy, Matplotlib, Seaborn) 
+* Google Data Studio
+
+----------------------------------------------------
 ## Data Science Projects of Yossakorn Napeang
 
 ----------------------------------------------------
