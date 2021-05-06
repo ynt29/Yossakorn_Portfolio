@@ -1,6 +1,6 @@
 <h1><p align="center"><b>Yossakorn Napeang's Portfolio</b></p></h1>
 <p align="center">
-  <img width="300" height="300" src="https://github.com/ynt29/Yossakorn_Portfolio/blob/main/ynpost.png">
+  <img width="300" height="300" src="https://github.com/ynt29/Yossakorn_Portfolio/blob/main/ynpost.png?raw=true">
 </p>
 
 
