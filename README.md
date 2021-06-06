@@ -42,3 +42,21 @@ Power BI Dashboard shows Brazillian E-Commerce orders, price and sales summary
 This Project is exploration olympics medal data for find out Number of Athletes, Medalists, Medal Table, Top events in 3 level (International, Continental, National)
 * Used PowerBI Desktop to create additional attribute into dataset
 * Used Python to clean the dataset, calculated data with Pandas and visualized with Matplotlib and Seaborn
+
+----------------------------------------------------
+## Certification list
+- DigitalSkill DS101 Certificate by Digital Skill (received in 5th, November 2020)
+- Essential SQL for Everyone by borntodev.com (received in 29th, December 2020)
+- Introduction to Data Studio by Google Analytics Academy (received in 2nd, May 2021)
+- Exploratory Data Analysis in SQL by DataCamp (received in 12th, May 2021)
+- Data-Driven Decision Making in SQL by DataCamp (received in 13th, May 2021)
+- Applying SQL to Real-World Problems by DataCamp (received in 14th, May 2021)
+- Analyzing Business Data in SQL by DataCamp (received in 15th, May 2021)
+- Reporting in SQL by DataCamp (received in 16th, May 2021)
+- Excel: Advanced Formulas and Functions by Linkedin Learning (received in 18th, May 2021)
+- Marketing Analytics in Spreadsheets by DataCamp (received in 19th, May 2021)
+- Financial Analytics in Spreadsheets by DataCamp (received in 20th, May 2021)
+- Learning Power BI Desktop by Linkedin Learning (received in 21st, May 2021)
+- Advanced Microsoft Power BI by Linkedin Learning (received in 22nd, May 2021)
+- Power BI for Marketers by Linkedin Learning (received in 23rd, May 2021)
+- Using Tableau to Discover Powerful Business Insights by Linkedin Learning (received in 26th, May 2021)
