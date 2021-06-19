@@ -33,7 +33,7 @@ Project for visualization and making a dashboard from Video games Sales data
 # [Project 3: US Regional Sales dashboard (Visualization & Dashboard Project)](https://github.com/ynt29/US_Regional_Sales)
 Tableau Dashboard for shows U.S. regional sales profit
 
-https://public.tableau.com/shared/CNQWXMM72
+[Dashboard link](https://public.tableau.com/shared/CNQWXMM72)
 
 -----------------------------------------------------
 # [Project 4: Brazilian E-Commerce dashboard (Visualization & Dashboard Project)](https://github.com/ynt29/brazilian_ecom_dashboard)
